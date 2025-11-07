@@ -1,5 +1,5 @@
 
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 
 int simpleArraySum(int arr[],int n) {
@@ -19,14 +19,5 @@ int main(){
     cout << "the sum of elements of arr is:" << simpleArraySum(arr,n) <<endl;
     cout<< "number of elements in arr is  : "<< n<< endl;
     return 0;
-    
-}*/
 
-#include<iostream>
-#include<vector>
-using namespace std;
-
-int simplearraysum(vector<int> ar){
-    int 
 }
-
